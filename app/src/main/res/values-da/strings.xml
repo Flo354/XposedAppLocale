@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">App Locale 2</string>
+    <string name="xposed_description">Bestem sprogene for hver enkelt app</string>
+
+    <string name="loading_apps">Laster ind apper&#8230;</string>
+    <string name="action_search">Søg</string>
+    <string name="action_language">Sprog</string>
+    <string name="choose_languages">Vælg sprog</string>
+    <string name="choose_languages_save">Gem</string>
+    <string name="choose_languages_cancel">Avbryd</string>
+    <string name="show_system_apps">Vis systemapper</string>
+    <string name="show_only_modified_apps">Vis kun ændrede apper</string>
+</resources>
