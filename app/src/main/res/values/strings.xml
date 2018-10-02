@@ -12,6 +12,8 @@
     <string name="show_only_modified_apps">Show only modified apps</string>
 
     <string-array name="locales" translatable="false">
+        <item>ar</item>
+        <item>ar-DZ</item>
         <item>ar-EG</item>
         <item>ar-IL</item>
         <item>ar-SA</item>
@@ -60,6 +62,7 @@
         <item>it-IT</item>
         <item>ja</item>
         <item>jbo</item>
+        <item>kab</item>
         <item>kk</item>
         <item>kl</item>
         <item>ko</item>
